@@ -2,8 +2,7 @@ node{
     
 stage('clone mahaloing java project') {
   
-  git 'https://github.com/maha4ntvc/mahalogin.git'
-  
+  git 'https://github.com/borrasrinu/srinu.git'
 }
 
 stage('execute mvn command') {
